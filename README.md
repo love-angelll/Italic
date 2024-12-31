@@ -1,14 +1,40 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Курсив – Онлайн-школа</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .banner {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        .banner h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        .banner p {
+            font-size: 18px;
+            margin: 10px 0 0;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Курсив – онлайн-школа современных знаний и навыков</h1>
-    </header>
+    <div class="banner">
+        <h1>Курсив</h1>
+        <p>Онлайн-школа современных знаний и навыков</p>
+    </div>
     <section id="about">
         <h2>О платформе</h2>
         <p>
