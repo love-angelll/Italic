@@ -69,7 +69,6 @@
         <p><strong>Свяжитесь с нами:</strong></p>
         <ul>
             <li>Email: <a href="mailto:support@kursiv-school.com">support@kursiv-school.com</a></li>
-            <li>Телефон: +373 775-8-65-94</li>
         </ul>
     </section>
     <footer>
