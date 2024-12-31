@@ -70,24 +70,7 @@
         <ul>
             <li>Email: <a href="mailto:support@kursiv-school.com">support@kursiv-school.com</a></li>
             <li>Телефон: +373 775-8-65-94</li>
-            <li>Соцсети: <a href="https://vk.com" target="_blank">ВКонтакте</a>, <a href="https://t.me/kursiv" target="_blank">Telegram</a></li>
         </ul>
-    </section>
-    <section id="setup">
-        <h2>Установка и запуск платформы</h2>
-        <h3>1. Клонирование репозитория:</h3>
-        <pre>
-git clone https://github.com/ваш-профиль/курсив.git
-cd курсив
-        </pre>
-        <h3>2. Установка зависимостей:</h3>
-        <pre>
-npm install
-        </pre>
-        <h3>3. Запуск приложения:</h3>
-        <pre>
-npm start
-        </pre>
     </section>
     <footer>
         <h2>Лицензия</h2>
