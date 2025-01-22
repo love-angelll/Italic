@@ -27,29 +27,29 @@
     <section id="mission">
     <h1>Структура проекта</h1>
     online-courses-platform/
-├── app/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── styles.css
-│   │   ├── js/
-│   │   │   └── scripts.js
-│   │   └── images/
-│   ├── templates/
-│   │   ├── base.html
-│   │   ├── index.html
-│   │   ├── course_detail.html
-│   │   ├── login.html
-│   │   ├── register.html
-│   │   └── admin_panel.html
-│   ├── __init__.py
-│   ├── models.py
-│   ├── routes.py
-│   ├── forms.py
-│   └── utils.py
-├── migrations/
-├── config.py
-├── requirements.txt
-└── run.py
+├── app/<br>
+│   ├── static/<br>
+│   │   ├── css/<br>
+│   │   │   └── styles.css<br>
+│   │   ├── js/<br>
+│   │   │   └── scripts.js<br>
+│   │   └── images/<br>
+│   ├── templates/<br>
+│   │   ├── base.html<br>
+│   │   ├── index.html<br>
+│   │   ├── course_detail.html<br>
+│   │   ├── login.html<br>
+│   │   ├── register.html<br>
+│   │   └── admin_panel.html<br>
+│   ├── __init__.py<br>
+│   ├── models.py<br>
+│   ├── routes.py<br>
+│   ├── forms.py<br>
+│   └── utils.py<br>
+├── migrations/<br>
+├── config.py<br>
+├── requirements.txt<br>
+└── run.py<br>
         <h2>Наша миссия</h2>
         <p>
             Мы верим, что каждый человек имеет право на качественное образование. 
