@@ -26,50 +26,30 @@
     </section>
     <section id="mission">
     <h1>Структура проекта</h1>
-    <ul>
-        <li>online-courses-platform/
-            <ul>
-                <li>app/
-                    <ul>
-                        <li>static/
-                            <ul>
-                                <li>css/
-                                    <ul>
-                                        <li>styles.css</li>
-                                    </ul>
-                                </li>
-                                <li>js/
-                                    <ul>
-                                        <li>scripts.js</li>
-                                    </ul>
-                                </li>
-                                <li>images/</li>
-                            </ul>
-                        </li>
-                        <li>templates/
-                            <ul>
-                                <li>base.html</li>
-                                <li>index.html</li>
-                                <li>course_detail.html</li>
-                                <li>login.html</li>
-                                <li>register.html</li>
-                                <li>admin_panel.html</li>
-                            </ul>
-                        </li>
-                        <li>__init__.py</li>
-                        <li>models.py</li>
-                        <li>routes.py</li>
-                        <li>forms.py</li>
-                        <li>utils.py</li>
-                    </ul>
-                </li>
-                <li>migrations/</li>
-                <li>config.py</li>
-                <li>requirements.txt</li>
-                <li>run.py</li>
-            </ul>
-        </li>
-    </ul>
+    online-courses-platform/
+├── app/
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── styles.css
+│   │   ├── js/
+│   │   │   └── scripts.js
+│   │   └── images/
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── index.html
+│   │   ├── course_detail.html
+│   │   ├── login.html
+│   │   ├── register.html
+│   │   └── admin_panel.html
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── forms.py
+│   └── utils.py
+├── migrations/
+├── config.py
+├── requirements.txt
+└── run.py
         <h2>Наша миссия</h2>
         <p>
             Мы верим, что каждый человек имеет право на качественное образование. 
