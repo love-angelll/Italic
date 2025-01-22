@@ -26,7 +26,7 @@
     </section>
     <section id="mission">
     <h1>Структура проекта</h1>
-    online-courses-platform/
+online-courses-platform/<br>
 ├── app/<br>
 │   ├── static/<br>
 │   │   ├── css/<br>
