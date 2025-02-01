@@ -8,9 +8,10 @@
         <h1 style="max-width: 100%; height: auto;">Курсив</h1>
         <p style="max-width: 100%; height: auto;">Онлайн-школа современных знаний и навыков</p>
 
+```
 > [!WARNING]
 > Проект находится ещё в разработке, пока приостановлен и за других проектов !!
-
+```
         <div style="text-align: center;">
             <img src="path-to-your-image.jpg" style="max-width: 100%; height: auto;">
         </div> 
